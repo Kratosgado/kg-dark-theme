@@ -17,5 +17,8 @@
         "path": "./themes/Kg Dark Theme-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.0"
   }
 }

@@ -1,10 +1,18 @@
 {
 	"name": "Kg Dark Theme",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb",
+		"editor.background": "#0D1117",
+		"editor.foreground": "#C9D1D9",
+		"activityBar.background": "#161B22",
+		"activityBar.foreground": "#C9D1D9",
+		"sideBar.background": "#161B22",
+		"sideBar.foreground": "#C9D1D9",
+		"statusBar.background": "#161B22",
+		"statusBar.foreground": "#C9D1D9",
+		"widget.shadow": "#00d5ff",
+		"widget.border": "#007acc"
 	},
 	"tokenColors": [
 		{
@@ -15,7 +23,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#8B949E"
 			}
 		},
 		{
@@ -25,7 +33,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#0fd8d8"
 			}
 		},
 		{
