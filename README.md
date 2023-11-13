@@ -1,4 +1,4 @@
-# kg-dark-theme README
+# Italic-dark-theme README
 
 ## Working with Markdown
 

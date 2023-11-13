@@ -1,5 +1,5 @@
 {
-  "name": "kg-dark-theme",
+  "name": "italic-dark-theme",
   "displayName": "Kg Dark Theme",
   "description": "VsCode color theme with inspiration from github theme",
   "version": "0.0.1",
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Kg Dark Theme",
+        "label": "Italic Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Kg Dark Theme-color-theme.json"
+        "path": "./themes/Italic Dark Theme-color-theme.json"
       }
     ]
   },
