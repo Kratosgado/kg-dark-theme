@@ -1,8 +1,19 @@
 {
   "name": "italic-dark-theme",
   "displayName": "Kg Dark Theme",
-  "description": "VsCode color theme with inspiration from github theme",
+  "description": "Italized VsCode color theme with inspiration from github theme",
   "version": "0.0.1",
+  "publisher": "KratosGado",
+  "icon": "images/theme.png",
+  "author": {
+    "name": "Prince Mbeah Essilfie",
+    "email": "mbeahessilfieprince@gmail.com",
+    "url": "https://github.com/Kratosgado"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kratosgado/kg-dark-theme.git"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -17,8 +28,5 @@
         "path": "./themes/Italic Dark Theme-color-theme.json"
       }
     ]
-  },
-  "devDependencies": {
-    "@types/node": "^20.9.0"
   }
 }
