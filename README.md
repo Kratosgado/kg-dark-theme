@@ -1,5 +1,10 @@
 # Italic-dark-theme README
+ Italic Dark Theme is a vscode theme that combines Andromeda and Github window theme decoration and uses vscode dark plus theme editor color scheme. 
+ It is also italized to give it a nice look.
 
+## look
+![theme look](https://kgopinion.com/wp-content/uploads/2023/11/theme.png)
+ 
 ## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
