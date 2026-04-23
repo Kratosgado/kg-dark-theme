@@ -3,7 +3,7 @@
  It is also italized to give it a nice look.
 
 ## look
-![theme look](https://kgopinion.com/wp-content/uploads/2023/11/theme.png)
+![theme look](./images/theme.png)
  
 ## Working with Markdown
 
