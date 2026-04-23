@@ -1,7 +1,7 @@
 {
-  "name": "kratogado-theme",
+  "name": "italic-dark-theme",
   "displayName": "Kratosgado Theme",
-  "description": "Italized VsCode color theme with inspiration from github theme",
+  "description": "VsCode color theme with inspiration from github theme",
   "version": "0.0.2",
   "publisher": "KratosGado",
   "icon": "images/theme.png",
