@@ -1,5 +1,5 @@
-# Italic-dark-theme README
- Italic Dark Theme is a vscode theme that combines Andromeda and Github window theme decoration and uses vscode dark plus theme editor color scheme. 
+# Kratosgado-theme README
+ Kratosgado Theme is a vscode theme that combines Andromeda and Github window theme decoration and uses vscode dark plus theme editor color scheme. 
  It is also italized to give it a nice look.
 
 ## look

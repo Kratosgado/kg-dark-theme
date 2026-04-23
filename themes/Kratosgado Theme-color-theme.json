@@ -1,9 +1,9 @@
 {
-	"name": "Italic Dark Theme",
+	"name": "Kratosgado Theme",
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
-		"newOperator":"#C586C0",
-		"stringLiteral":"#6e7682",
+		"newOperator": "#C586C0",
+		"stringLiteral": "#6e7682",
 		"customLiteral": "#DCDCAA",
 		"numberLiteral": "#b5cea8"
 	},
@@ -254,10 +254,10 @@
 		"editorGroup.dropBackground": "#495061d7",
 		"editor.selectionBackground": "#3D4352",
 		"editor.findMatchBorder": "#f39d12b6",
-		"editor.hoverHighlightBackground": "#373941",
+		"editor.hoverHighlightBackground": "#37394180",
 		"editor.lineHighlightBorder": "#2e323d",
 		"editorLink.activeForeground": "#3B79C7",
-		"editor.rangeHighlightBackground": "#372F3C",
+		"editor.rangeHighlightBackground": "#372F3C80",
 		"editorRuler.foreground": "#4F4355",
 		"editorCodeLens.foreground": "#746f77",
 		"editorError.foreground": "#FC644D",
@@ -273,8 +273,7 @@
 		"peekViewResult.selectionBackground": "#23262E",
 		"peekViewTitle.background": "#1A1C22",
 		"peekViewTitleDescription.foreground": "#746f77",
-
-		"merge.currentHeaderBackground": "#F92672",
+		"merge.currentHeaderBackground": "#F9267280",
 		"merge.currentContentBackground": "#F9267240",
 		"merge.incomingHeaderBackground": "#3B79C7BB",
 		"merge.incomingContentBackground": "#3B79C740",
@@ -284,15 +283,8 @@
 		"extensionButton.prominentBackground": "#07d4b6cc",
 		"extensionButton.prominentHoverBackground": "#07d4b5b0",
 		"walkThrough.embeddedEditorBackground": "#23262E",
-	 },
-	 "tokenColors": [
-		{
-			"name": "Italic Texts",
-			"scope": [" "],
-			"settings": {
-				"fontStyle": "italic"
-			}
-		},
+	},
+	"tokenColors": [
 		{
 			"scope": [
 				"meta.embedded",
@@ -302,12 +294,6 @@
 			],
 			"settings": {
 				"foreground": "#D4D4D4"
-			}
-		},
-		{
-			"scope": "strong",
-			"settings": {
-				"fontStyle": "italic bold"
 			}
 		},
 		{
@@ -406,12 +392,6 @@
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#569cd6"
-			}
-		},
-		{
-			"scope": "markup.italic",
-			"settings": {
-				"fontStyle": "italic"
 			}
 		},
 		{
@@ -664,7 +644,7 @@
 				"support.function",
 				"support.constant.handlebars",
 				"source.powershell variable.other.member",
-				"entity.name.operator.custom-literal" 
+				"entity.name.operator.custom-literal"
 			],
 			"settings": {
 				"foreground": "#DCDCAA"
@@ -848,5 +828,5 @@
 				"foreground": "#C8C8C8"
 			}
 		}
-	 ]
+	]
 }

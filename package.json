@@ -1,6 +1,6 @@
 {
-  "name": "italic-dark-theme",
-  "displayName": "Italic Dark Theme",
+  "name": "kratogado-theme",
+  "displayName": "Kratosgado Theme",
   "description": "Italized VsCode color theme with inspiration from github theme",
   "version": "0.0.1",
   "publisher": "KratosGado",
@@ -23,9 +23,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Italic Dark Theme",
+        "label": "Kratosgado Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Italic Dark Theme-color-theme.json"
+        "path": "./themes/Kratosgado Theme-color-theme.json"
       }
     ]
   }
